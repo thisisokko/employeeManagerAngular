@@ -26,7 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-##JSON-SERVER
+## JSON-SERVER
+
 JSON Server Fake API -> npm install -g json-server komutu ile yüklenir.
 Bu dosyayı JSON server uygulaması ile 3000 portunda çalıştırarak alabilirsiniz. 
 Dosyanın aktif olabilmesi için cmd -> json-server --watch products_db.json komutunu çalıştırınız.
