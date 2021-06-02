@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "casper",
+      "imageUrl": "https://images.unsplash.com/photo-1593642702909-dec73df255d7?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+      "id": 2,
+      "name": "desktop",
+      "price": 3000,
+      "categoryId": 2,
+      "description": "asus",
+      "imageUrl": "https://images.unsplash.com/photo-1588382472578-8d8b337b277a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c3NkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "name": "ram",
+      "price": 1000,
+      "categoryId": 3,
+      "description": "kingston",
+      "imageUrl": "https://images.unsplash.com/photo-1526392269816-39d8ed656494?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cmFtfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "name": "ssd",
+      "price": 100,
+      "categoryId": 4,
+      "description": "samsung",
+      "imageUrl": "https://images.unsplash.com/photo-1597138804456-e7dca7f59d54?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8c3NkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "name": "hdd",
+      "price": 300,
+      "categoryId": 5,
+      "description": "seagate",
+      "imageUrl": "https://images.unsplash.com/photo-1591913139332-f8172ef511da?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+      "id": 6,
+      "name": "mouse",
+      "price": 25,
+      "categoryId": 6,
+      "description": "logitech",
+      "imageUrl": "https://images.unsplash.com/photo-1586816879360-004f5b0c51e5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8bW91c2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "name": "iPhone 12",
+      "description": "Beyaz",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSP73xIuZ9IPjV-Q383z96iDMBC8b4xg1hHw&usqp=CAU",
+      "price": "25000",
+      "categoryId": "3",
+      "id": 7
+    },
+    {
+      "name": "Vestel Buzdolabı",
+      "description": "655 LT No-Frost",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "price": "15000",
+      "categoryId": "5",
+      "id": 8
+    },
+    {
+      "name": "PlayStation 5",
+      "description": "Konsol",
+      "imageUrl": "https://cdn.akakce.com/sony/825-gb-ssd-oyun-konsolu-z.jpg",
+      "price": "9999",
+      "categoryId": "1",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar Bileşen"
+    },
+    {
+      "id": 3,
+      "name": "İletişim"
+    },
+    {
+      "id": 4,
+      "name": "Aksesuar"
+    },
+    {
+      "id": 5,
+      "name": "Beyaz Eşya"
+    }
+  ]
+}
